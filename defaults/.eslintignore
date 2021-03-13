@@ -1,0 +1,16 @@
+**/*.map
+**/*.d.ts
+bin/**/*.js
+lib/**/*.js
+src/**/*.js
+test/**/*.js
+
+**/generated/**
+**/__fixtures__/**
+
+.cache/**
+cache/**
+dist/**
+log/**
+node_modules/**
+patches/**
