@@ -293,9 +293,6 @@ module.exports = {
 
     // Must come last!
     'prettier',
-    ...(reactEnabled ? ['prettier/react'] : []),
-    'prettier/standard',
-    'prettier/@typescript-eslint',
   ],
 
   settings: {
