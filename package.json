@@ -1,6 +1,6 @@
 {
   "name": "@owldotco/eslint-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "@owldotco shared eslint configuration",
   "bugs": {
     "url": "https://github.com/owldotco/eslint-config/issues"
